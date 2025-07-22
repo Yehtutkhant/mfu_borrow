@@ -85,20 +85,39 @@ Students, lecturers, and staff each have tailored experiences:
 
 ## 📲 UI
 
-![App Home Screen](https://console.cloudinary.com/app/c-3c24cdc26a49adc2c11fb0ab08d637/assets/media_library/folders/cc18de61a889325cbae5c5936dc3c64867?view_mode=mosaic)
+1. App Home Screen
 
-![Borrow Screen](https://console.cloudinary.com/app/c-3c24cdc26a49adc2c11fb0ab08d637/assets/media_library/folders/cc18de61a889325cbae5c5936dc3c64867?view_mode=mosaic)
+![App Home Screen](https://res.cloudinary.com/dndkxuzes/image/upload/w_300,q_auto,c_fill/v1753181489/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2025-07-21_at_16.13.55_gqjl04.png)
 
-![Manage Asset For Student Screen](https://console.cloudinary.com/app/c-3c24cdc26a49adc2c11fb0ab08d637/assets/media_library/folders/cc18de61a889325cbae5c5936dc3c64867?view_mode=mosaic)
+2. Borrow Screen
 
-![Create Asset Screen](https://console.cloudinary.com/app/c-3c24cdc26a49adc2c11fb0ab08d637/assets/media_library/folders/cc18de61a889325cbae5c5936dc3c64867?view_mode=mosaic)
+![Borrow Screen](https://res.cloudinary.com/dndkxuzes/image/upload/w_300,q_auto,c_fill/v1753181490/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2025-07-21_at_16.14.27_uqmvae.png)
 
-![Manage Asset for Staff Screen](https://console.cloudinary.com/app/c-3c24cdc26a49adc2c11fb0ab08d637/assets/media_library/folders/cc18de61a889325cbae5c5936dc3c64867?view_mode=mosaic)
+3. Manage Asset For Student Screen
 
-![Manage Asset for Lecturer Screen](https://console.cloudinary.com/app/c-3c24cdc26a49adc2c11fb0ab08d637/assets/media_library/folders/cc18de61a889325cbae5c5936dc3c64867?view_mode=mosaic)
+![Manage Asset For Student Screen](https://res.cloudinary.com/dndkxuzes/image/upload/w_300,q_auto,c_fill/v1753181497/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2025-07-22_at_17.46.37_dczg8j.png)
 
-![History Screen](https://console.cloudinary.com/app/c-3c24cdc26a49adc2c11fb0ab08d637/assets/media_library/folders/cc18de61a889325cbae5c5936dc3c64867?view_mode=mosaic)
+4. Create Asset Screen
 
-![Dashboard](https://console.cloudinary.com/app/c-3c24cdc26a49adc2c11fb0ab08d637/assets/media_library/folders/cc18de61a889325cbae5c5936dc3c64867?view_mode=mosaic)
+![Create Asset Screen](https://res.cloudinary.com/dndkxuzes/image/upload/w_300,q_auto,c_fill/v1753181496/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2025-07-22_at_17.08.02_r6nonn.png)
 
-![Profile Page](https://console.cloudinary.com/app/c-3c24cdc26a49adc2c11fb0ab08d637/assets/media_library/folders/cc18de61a889325cbae5c5936dc3c64867?view_mode=mosaic)
+5. Manage Asset for Staff Screen
+
+![Manage Asset for Staff Screen](https://res.cloudinary.com/dndkxuzes/image/upload/w_300,q_auto,c_fill/v1753181498/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2025-07-22_at_17.49.30_mm6u01.png)
+
+6. Manage Asset for Lecturer Screen
+
+![Manage Asset for Lecturer Screen](https://res.cloudinary.com/dndkxuzes/image/upload/w_300,q_auto,c_fill/v1753181498/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2025-07-22_at_17.49.30_mm6u01.png)
+
+7. History Screen
+
+![History Screen](https://res.cloudinary.com/dndkxuzes/image/upload/w_300,q_auto,c_fill/
+v1753181490/Simulator*Screenshot*-_iPhone_15_Pro_Max_-\_2025-07-21_at_16.39.10_fv0dn4.png)
+
+8. Dashboard
+
+![Dashboard](https://res.cloudinary.com/dndkxuzes/image/upload/w_300,q_auto,c_fill/v1753181493/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2025-07-22_at_17.07.49_qkxypp.png)
+
+9. Profile Page
+
+![Profile Page](https://res.cloudinary.com/dndkxuzes/image/upload/w_300,q_auto,c_fill/v1753181492/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2025-07-22_at_16.58.20_dnabfy.png)
