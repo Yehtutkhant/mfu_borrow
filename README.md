@@ -111,7 +111,7 @@ Students, lecturers, and staff each have tailored experiences:
 
 7. History Screen
 
-![History Screen](https://res.cloudinary.com/dndkxuzes/image/upload/w_300,q_auto,c_fill/v1753181490/Simulator*Screenshot*-_iPhone_15_Pro_Max_-\_2025-07-21_at_16.39.10_fv0dn4.png)
+![History Screen](https://res.cloudinary.com/dndkxuzes/image/upload/w_300,q_auto,c_fill/v1753181490/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2025-07-21_at_16.39.10_fv0dn4.png)
 
 8. Dashboard
 
